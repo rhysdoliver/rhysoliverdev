@@ -1,3 +1,9 @@
+:root {
+  --stop-white: theme(colors.teal.500);
+  --stop-teal: theme(colors.teal.500);
+  --stop-red: theme(colors.red.600);
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
